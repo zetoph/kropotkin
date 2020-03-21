@@ -1,2 +1,2 @@
 # kropotkin
-Django based app for sharing economies
+Django based app for distributed mutual aid
